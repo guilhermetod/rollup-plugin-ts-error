@@ -1,0 +1,18 @@
+{
+  "name": "rollup-plugin-ts-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^2.59.0",
+    "rollup-plugin-ts": "^1.4.7",
+    "typescript": "^4.4.4"
+  }
+}
